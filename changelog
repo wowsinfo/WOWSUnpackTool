@@ -1,13 +1,6 @@
 WOWS UNPACK TOOL
-Version: 2.0.0.40
-Date: 12.03.2019
+Version: 2.0.0.41
+Date: 23.04.2019
 
-Renew:
-- Automatic update function
-
-Added:
-- Visualization of automatic update function progress
-
-Other:
-- Removed some notifications
-- Code optimization
+Update:
+- Compatible with version 0.8.3.0
