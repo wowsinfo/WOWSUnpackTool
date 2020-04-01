@@ -1,6 +1,9 @@
 WOWS UNPACK TOOL
-Version: 2.0.0.42
-Date: 26.04.2019
+Version: 2.0.0.47
+Date: 01.04.2020
 
 Fixed:
-- Compatible with Steam-client
+- Error connecting to update server.
+
+Added:
+- Ability to open the download page of program components in a browser.
