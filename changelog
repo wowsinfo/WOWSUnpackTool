@@ -1,9 +1,14 @@
 WOWS UNPACK TOOL
-Version: 2.0.0.47
-Date: 01.04.2020
-
+===
+Version: 2.0.0.50 Date: 17.06.2020
+Updated:
+- Appliaction update function
+- Options 'Open output folder after unpacked' and 'Compare and copy new files in output folder' enabled by default
 Fixed:
-- Error connecting to update server.
-
+- Creating a configuration file without the need
+===
+Version: 2.0.0.47 Date: 01.04.2020
+Fixed:
+- Error connecting to update server
 Added:
-- Ability to open the download page of program components in a browser.
+- Ability to open the download page of program components in a browser
