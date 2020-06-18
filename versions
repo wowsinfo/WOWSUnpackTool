@@ -1,6 +1,6 @@
 [versions]
 UnpackerServerVersion=0.0.0.0
 UnpackerServerHash=5ec4804c2acd3fa659beac257cef521dad3ba697
-AppServerVersion=2.0.1.54
-AppServerHash=45ee3f476995bb324ef1a2a7492c9f83cde2b109
+AppServerVersion=2.0.1.57
+AppServerHash=9be28e29401da1acec9c93be7ab3a8be8b8a6cf1
 InitialClientVersion=0.8.3.0
