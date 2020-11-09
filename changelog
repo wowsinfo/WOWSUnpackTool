@@ -1,21 +1,30 @@
 WOWS UNPACK TOOL
 ===
-Version: 2.0.1.57 Date: 18.06.2020
+Version: 2.0.1.60. Release date: 09 NOV 2020
+Updated:
+- The function of detecting the latest directory of the game client.
+Changes:
+- The app now uses the path C:\Users\LocalUser\AppData\Local\Temp for its own temp files.
+- The paths fields in the Settings menu can only be changed using the Browse button.
+- The backup function for updated apps files is now independent.
+- Some other code changes.
+===
+Version: 2.0.1.57. Release date: 18 JUN 2020
 Fixed:
 - Appliaction update function
 ===
-Version: 2.0.1.54 Date: 18.06.2020
+Version: 2.0.1.54. Release date: 18 JUN 2020
 Updated:
 - Compatible with version 0.9.6
 ===
-Version: 2.0.0.50 Date: 17.06.2020
+Version: 2.0.0.50. Release date: 17 JUN 2020
 Updated:
 - Appliaction update function
 - Options 'Open output folder after unpacked' and 'Compare and copy new files in output folder' enabled by default
 Fixed:
 - Creating a configuration file without the need
 ===
-Version: 2.0.0.47 Date: 01.04.2020
+Version: 2.0.0.47. Release date: 01 APR 2020
 Fixed:
 - Error connecting to update server
 Added:
